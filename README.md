@@ -24,7 +24,7 @@ I'm a **Bachelor of Engineering Student (Class of '58)** in **Civil Engineering*
 
 ### 📊 **My GitHub Stats:**
 
-[![Can Sutthipong's GitHub stats]![SUTTHIPONG-CAN's Stats](https://github-readme-stats.vercel.app/api?username=SUTTHIPONG-CAN&theme=vue-dark&show_icons=true&hide_border=true&count_private=true))
+[![Can Sutthipong's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUTTHIPONG-CAN&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
